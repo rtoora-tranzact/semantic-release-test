@@ -1,3 +1,10 @@
+# [1.0.0-develop.2](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0-develop.1...v1.0.0-develop.2) (2025-06-16)
+
+
+### Features
+
+* new feature [#2](https://github.com/rtoora-tranzact/semantic-release-test/issues/2) ([2148219](https://github.com/rtoora-tranzact/semantic-release-test/commit/21482190a5406bec955b8cbeb31fd2cf472c2922))
+
 # 1.0.0-develop.1 (2025-06-16)
 
 

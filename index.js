@@ -13,3 +13,6 @@ console.log('fixing here a bug #2');
 console.log('adding chore here #2');
 
 console.log('adding BREAKING CHANGE here #1');
+
+console.log('fixing here a bug #3');
+console.log('fixing here a bug #4');

@@ -16,3 +16,6 @@ console.log('adding BREAKING CHANGE here #1');
 
 console.log('fixing here a bug #3');
 console.log('fixing here a bug #4');
+
+console.log('adding feature here #2');
+console.log('fixing here a bug #5');

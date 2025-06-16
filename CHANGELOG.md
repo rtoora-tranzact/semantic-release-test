@@ -1,4 +1,8 @@
+
 # 1.0.0 (2025-06-16)
+
+# [1.0.0-develop.5](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0-develop.4...v1.0.0-develop.5) (2025-06-16)
+
 
 
 ### Bug Fixes
@@ -15,6 +19,8 @@
 * initial commit ([fe1835e](https://github.com/rtoora-tranzact/semantic-release-test/commit/fe1835e1d77c5cfcddd7d4c29aeb68a7d03a3fab))
 * new feature ([1ce46b0](https://github.com/rtoora-tranzact/semantic-release-test/commit/1ce46b0097070a672b0ca6742907480d19c61fad))
 * new feature [#2](https://github.com/rtoora-tranzact/semantic-release-test/issues/2) ([2148219](https://github.com/rtoora-tranzact/semantic-release-test/commit/21482190a5406bec955b8cbeb31fd2cf472c2922))
+* adding unexpected features ([e530b8d](https://github.com/rtoora-tranzact/semantic-release-test/commit/e530b8d4a71d9c065ed16b6f185ac4d1955a7a36))
+
 
 # [1.0.0-develop.4](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0-develop.3...v1.0.0-develop.4) (2025-06-16)
 

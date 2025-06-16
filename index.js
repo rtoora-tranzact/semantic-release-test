@@ -9,3 +9,5 @@ console.log('Hola Rajiv!');
 console.log('this is a new feature');
 
 console.log('fixing here a bug #2');
+
+console.log('adding chore here #2');

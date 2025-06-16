@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rtoora-tranzact/semantic-release-test/issues"
   },
-  "homepage": "https://github.com/rtoora-tranzact/semantic-release-test#readme"
+  "homepage": "https://github.com/rtoora-tranzact/semantic-release-test#readme",
+  "devDependencies": {
+    "semantic-release": "^24.2.5"
+  }
 }

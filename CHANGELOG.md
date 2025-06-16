@@ -1,3 +1,9 @@
+# [1.1.0-develop.1](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.1...v1.1.0-develop.1) (2025-06-16)
+
+
+### Features
+
+* adding feature [#2](https://github.com/rtoora-tranzact/semantic-release-test/issues/2) ([db85cef](https://github.com/rtoora-tranzact/semantic-release-test/commit/db85cefbb71c7ac7e9dd064d96724af9937bbe35)), closes [#5](https://github.com/rtoora-tranzact/semantic-release-test/issues/5)
 
 ## [1.0.1](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0...v1.0.1) (2025-06-16)
 

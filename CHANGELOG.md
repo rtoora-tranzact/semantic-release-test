@@ -1,3 +1,10 @@
+# [1.0.0-develop.5](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0-develop.4...v1.0.0-develop.5) (2025-06-16)
+
+
+### Bug Fixes
+
+* adding unexpected features ([e530b8d](https://github.com/rtoora-tranzact/semantic-release-test/commit/e530b8d4a71d9c065ed16b6f185ac4d1955a7a36))
+
 # [1.0.0-develop.4](https://github.com/rtoora-tranzact/semantic-release-test/compare/v1.0.0-develop.3...v1.0.0-develop.4) (2025-06-16)
 
 
